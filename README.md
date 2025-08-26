@@ -248,8 +248,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="636" height="396" alt="divp" src="https://github.com/user-attachments/assets/0f02b793-7aff-4aba-b8a9-48d6fd80f608" />
 
-<img width="637" height="402" alt="image" src="https://github.com/user-attachments/assets/794bd0d4-4d79-4465-89e6-3439795d4e7f" />
 
 
 
