@@ -137,7 +137,8 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="636" height="427" alt="image" src="https://github.com/user-attachments/assets/77512551-29b2-48f3-9cb7-c25813665f8c" />
+<img width="632" height="430" alt="subp" src="https://github.com/user-attachments/assets/a0c57860-fb07-43b1-837b-5d48a1da313a" />
+
 
 
 
