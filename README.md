@@ -194,8 +194,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="647" height="392" alt="mulp" src="https://github.com/user-attachments/assets/61103ccd-88e0-419f-9648-73f7ef7b78e0" />
 
-<img width="643" height="392" alt="image" src="https://github.com/user-attachments/assets/a42514d2-9f4e-43f1-8bcb-86c419407e9c" />
 
 
 
