@@ -72,7 +72,8 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-<img width="641" height="423" alt="image" src="https://github.com/user-attachments/assets/1665c5f2-6c38-42f8-9bfa-79156a50fa4b" />
+<img width="637" height="432" alt="addp" src="https://github.com/user-attachments/assets/af5e7dbd-1e32-4dd9-8d00-eddcab02f659" />
+
 
 
 
