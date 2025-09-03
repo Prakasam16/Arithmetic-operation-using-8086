@@ -64,7 +64,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+
 
 ---![IMG-20250830-WA0002 1](https://github.com/user-attachments/assets/b6bde718-d2b7-4bd3-bdba-87a71beeb31f)
 
@@ -128,7 +128,6 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
 
 ---![IMG-20250830-WA0001 1](https://github.com/user-attachments/assets/74782ca9-d519-4e36-95b2-9d8630b7a1a0)
 
@@ -242,7 +241,6 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
 
 
 ---<img width="738" height="576" alt="image" src="https://github.com/user-attachments/assets/024d6a5c-9956-4ccd-8751-494f3c7ea6dc" />
