@@ -71,7 +71,7 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-![add](https://github.com/user-attachments/assets/fcca764f-747f-4f69-b5c5-d3a6edaadd7d)
+![add](https://github.com/user-attachments/assets/96f5cfe0-9837-422c-8af7-082c6da8434c)
 
 
 ![add1](https://github.com/user-attachments/assets/17e614b4-0b0a-4690-a7b5-166329720ab4)
