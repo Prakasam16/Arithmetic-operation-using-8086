@@ -134,10 +134,11 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="632" height="436" alt="image" src="https://github.com/user-attachments/assets/21899f47-da77-417f-962d-30f756e0b76e" />
+![sub](https://github.com/user-attachments/assets/4ff0b65c-d7e0-4777-bcc5-79dc66ea543f)
 
 
-<img width="890" height="427" alt="image" src="https://github.com/user-attachments/assets/c1b22fe8-8a65-4001-a217-5db87a0d5c43" />
+
+![sub1](https://github.com/user-attachments/assets/a2c53a89-770f-46d0-8797-cd93e6d60c71)
 
 
 
