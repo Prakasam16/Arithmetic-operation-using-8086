@@ -194,7 +194,7 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="637" height="426" alt="image" src="https://github.com/user-attachments/assets/c7b11cf0-099e-4e4d-9d64-c12f41e6141d" />
+![Mul](https://github.com/user-attachments/assets/f8c5cd61-01ae-414b-9b0a-752fadaeb35f)
 
 
 <img width="633" height="431" alt="image" src="https://github.com/user-attachments/assets/e172932b-9925-4783-831f-db85ae44972d" />
