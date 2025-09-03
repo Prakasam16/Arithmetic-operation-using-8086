@@ -195,8 +195,7 @@ END
 
 ![Mul](https://github.com/user-attachments/assets/f8c5cd61-01ae-414b-9b0a-752fadaeb35f)
 
-
-<img width="633" height="431" alt="image" src="https://github.com/user-attachments/assets/e172932b-9925-4783-831f-db85ae44972d" />
+![mul1](https://github.com/user-attachments/assets/3a0d012a-41a2-4436-930b-8063161f2753)
 
 
 ## 4. DIVISION
